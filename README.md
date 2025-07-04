@@ -38,7 +38,7 @@ Steps
 Clone the repo:
 
 sh
-git clone https://github.com/your-username/ecom-springboot.git
+git clone https://github.com/sanidulsattar/EComBackend.git
 Configure PostgreSQL in src/main/resources/application.properties:
 
 properties
